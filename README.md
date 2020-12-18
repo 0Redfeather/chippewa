@@ -1,2 +1,3 @@
-# chippewa
-A site for the anishinaabe language and culture
+#Chippewa
+## https://www.chippewa.dev/
+Just a side writing project.
