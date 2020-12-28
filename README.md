@@ -11,10 +11,10 @@ The translation of Anishinaabe is First People, and as such, I thought it would 
 Contains descriptions of the rules, characters, places, main events, and timelines taking place within the Chippewa Universe. The real sources, events, and people will also be contained in this folder.
 
 ## Old Woman from the East
-Spring, birth. Super way back in the past
+Spring, birth. Super way back in the past. My attempt at writing a story from a woman's perspective. May be a monumental failure, but the goal is not to end up on r/menwritingwomen.
 
 ## Southern Cedar
-Youth, not knowing anything, getting lost, spiritual guidance. Historical Times?
+Youth, not knowing anything, getting lost, spiritual guidance. Historical Times. Broken treaties and whatnot
 
 ## West Door
 Becoming an adult. Finding death. Present day
