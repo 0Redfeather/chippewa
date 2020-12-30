@@ -24,42 +24,66 @@ Here you will find the rules governing the Chippewa Universe. Anything is possib
     * While striking a balance is the "best" way, there are many different ways to master each category down each pathway.
 5. Spiritual energy is almost exclusively transferred through touch, objects, or places which have been imbued with energy.
 
-### Spiritual Grandfather Categories
+### Spiritual Categories
 The seven categories each have two spiritual attributes that can be trained or affected by life effects in various ways. There are general benefits to mastering a pathway, but how you master attributes affects how you can use your powers.
+
+People are only able to truly master abilities from one pathway, though they may become proficient in using abilities from other paths. Mastering abilities from other categories becomes exponentially more difficult with each pathway that you become proficient in. 1 mastered pathway, and two proficient pathways are usually possibly with a driven individual. Mastering pathways from one category, however, is difficult in its own right.
+
+Your ability to master pathways is heavily related to your clan. People from particular clans tend to have the same paths they are usually good at. That being said, there are always those individuals who differ from the usual paths.
+
+While mastering abilities in multiple pathways is difficult, living your life according to all of the pathways benefits your mastery of any pathways abilities. For instance, someone who has mastered and practiced only the Thunder path, will be weaker than someone who lives their life according to all pathways.
+
+### The Pathways
 **Thunder**
   * General Description
     * How your spiritual energy affects other peoples spiritual energy and makes them feel about themselves and you. Purely an emotional spiritual power. Stirring up emotions, or calming the storm.
   * Attributes
     * Love
     * Rancor
+  * How to train
+    * Basic - Manipulate the emotions of strangers. Make a stranger laugh, make them angry, or make them feel some kind of emotion. Do this without spirit energy using words, tone of voice, actions, etc.  
+    * Intermediate - Use spiritual energy while directly touching someone in order to make them feel the emotions you tried making them feel with the basic method.
+    * Advanced - Imbue your spiritual energy into objects while attempting to make others who hold those objects feel those emotions
+    * Expert - Unique to the individual, but for a balanced approach, this often involves calming others who are in a strong emotional state.
   * Attributes of Various Mastery Levels
     * Low - Not particularly likable. Can be either a good or bad person.
     * medium - Nice to know, and able form friendly relationships with those they have common interests, and attitudes with.
-    * high - Charismatic, and extremely likable.
+    * high - Charismatic, and easily able to get others to like them if they desire.
   * Possible Pathways
     * Blindness - Masters of only love can convince others to love them so much that the others follow their beliefs as fundamentalist without considering the possibility of nuance. Hard to steer once the path has been set.
     * Balance - Those who are balanced are able to stir up emotions to a lesser extent, but it's more powerful as a calming strategy. The combination of both love and rancor makes those in their party stronger in every category. Those around them are able to consider the uniqueness of their own situation, and what they can do for the betterment of the group.
     * Revenge - Masters of Rancor are able to convince others to join their campaigns against those they felt have wronged them. Masters of Rancor are also usually adept at convincing others that they have been wronged. They are able to fill others with hate and strong animosity towards others. Hard to stop once the path has been set.
 **Life**
   * General Description
-    * The ability to manipulate objects, materials, and animals in the physical world. Cannot go against gravity, or force things to behave in ways they never would.
+    * The ability to manipulate objects, materials, plants, and animals in the physical world. Cannot go against gravity, or force things to behave in ways they never would.
   * Attributes
     * Respect
     * Desecration
+  * How to train
+    * Basic - interact with nature and the physical world. The more varied types of spiritual energy that you interact with, the better. For instance: go for walks in the woods, climb a tree; explore caves, interact with animals.
+    * Intermediate - Use your spiritual energy to bond with a dog, or some other animal. animals are a relatively closer type of spirit energy to humans. Ask them to do things.
+    * Advanced - Use your spiritual energy to manipulate plants, materials and other non-animal things.
+    * Expert - Unique to the individual. A master of desecration could spend much time killing things, and imbuing them with their spirit energy. Some are also able to make golems.
   * Attributes of Various Mastery Levels
     * Low - Willing to learn about how the world works, but mostly just about what is important for their daily life.
     * Medium - Has a natural understanding of how animals, plants and the natural world work. Often able to read the body language and health of living things.
     * High - Has an extensive understanding and curiosity about the physical world. They are also very interested in developing individual relationships with various animals, plants, objects, and places in the world.
   * Possible Pathways
-    *  Bleeding Heart - Masters of only respect are adept at manipulating the physical world, healing people, and beseeching animals for help, but they are unable to disobey the moral code and conditions that they've put on themselves to get mastery of this category.
+    *  Bleeding Heart - Masters of only respect are adept at manipulating the physical world, healing people, and beseeching animals for help, but they are ?????????.
     * Balance - Knows that creation benefits from destruction. Paradoxically, better understanding of the physical world improves their relationship with the spiritual world. Able to manipulate and destroy things to a lesser extent than the other possible pathways, but is also able to manipulate the spirit energy of others in certain ways to make them tired, energized, nauseous, etc. They also naturally have a better relationship purely spiritual beings (in their physical forms) for asking them for help.
     * Undead King - Masters of only desecration excel at killing and ailing others. They can also use the dead, and decomposing for their will.
+    * Breaker - adept at breaking down spiritual energy.
 **War**
   * General Description
     * So named because of its popularity with men and warriors, even though there are many uses for this path. Those utilizing this path can generally either enhance some physical aspect of their body or senses, or add resistance in various ways to the bodies of someone else.
   * Attributes
     * Bravery
     * Fear
+  * How to train
+    * Basic -
+    * Intermediate -
+    * Advanced -
+    * Expert - Unique o the individual.
   * Mastery Levels
     * Low - Lethargic and would rather not move if given a choice.
     * Medium - Always enjoys moving around and using their bodies rather than sitting in place.
@@ -74,6 +98,11 @@ The seven categories each have two spiritual attributes that can be trained or a
   * Attributes
     * Truth
     * Fabrication
+* How to train
+  * Basic - story telling
+  * Intermediate -
+  * Advanced -
+  * Expert - Unique o the individual.
   * Mastery Levels
     * Low - Care about only the gist of many situations, except for possibly the most important things in their life.
     * Medium - Care about things making sense in both stories and real life. Both in terms of story structure and motivations of people in stories.
@@ -88,6 +117,11 @@ The seven categories each have two spiritual attributes that can be trained or a
   * Attributes
     * Honesty
     * Corruption
+* How to train
+  * Basic -
+  * Intermediate -
+  * Advanced -
+  * Expert - Unique o the individual.
   * Mastery Levels
     * Low - Games are ok, would rather do some kind of craft or other hobby.
     * Medium - Enjoys games, and often very good at them, but can easily put them down.
