@@ -53,6 +53,7 @@ While mastering abilities in multiple pathways is difficult, living your life ac
     * Blindness - Masters of only love can convince others to love them so much that the others follow their beliefs as fundamentalist without considering the possibility of nuance. Hard to steer once the path has been set.
     * Balance - Those who are balanced are able to stir up emotions to a lesser extent, but it's more powerful as a calming strategy. The combination of both love and rancor makes those in their party stronger in every category. Those around them are able to consider the uniqueness of their own situation, and what they can do for the betterment of the group.
     * Revenge - Masters of Rancor are able to convince others to join their campaigns against those they felt have wronged them. Masters of Rancor are also usually adept at convincing others that they have been wronged. They are able to fill others with hate and strong animosity towards others. Hard to stop once the path has been set.
+
 **Life**
   * General Description
     * The ability to manipulate objects, materials, plants, and animals in the physical world. Cannot go against gravity, or force things to behave in ways they never would.
@@ -73,6 +74,7 @@ While mastering abilities in multiple pathways is difficult, living your life ac
     * Balance - Knows that creation benefits from destruction. Paradoxically, better understanding of the physical world improves their relationship with the spiritual world. Able to manipulate and destroy things to a lesser extent than the other possible pathways, but is also able to manipulate the spirit energy of others in certain ways to make them tired, energized, nauseous, etc. They also naturally have a better relationship purely spiritual beings (in their physical forms) for asking them for help.
     * Undead King - Masters of only desecration excel at killing and ailing others. They can also use the dead, and decomposing for their will.
     * Breaker - adept at breaking down spiritual energy.
+
 **War**
   * General Description
     * So named because of its popularity with men and warriors, even though there are many uses for this path. Those utilizing this path can generally either enhance some physical aspect of their body or senses, or add resistance in various ways to the bodies of someone else.
@@ -92,6 +94,7 @@ While mastering abilities in multiple pathways is difficult, living your life ac
     * Warrior - Masters of only Bravery are Very adept at enhancing their own physical traits
     * Balance - The balanced approach both enhances themselves and adds resistance to their opponents. The use of both energies allows the wielder to instantly surmise the amount of energy an opponent has in comparison to them.
     * Torturer - Masters of only Fear are adept at affecting the physical traits of other people in various ways. They can add spiritual resistance in many ways to other people.
+
 **Principle**
   * General Description
     * The ability to create visions, and make others experience the world in the way that you want them to. Useful for false visions, hearing, touch, smell and other senses.
@@ -111,6 +114,7 @@ While mastering abilities in multiple pathways is difficult, living your life ac
     * Recorder - Masters of only Truth are able to convey their own actual experiences they have felt to others. The affected feel all senses from their experience. This is easiest while in a dream state, but is possible for very short bursts while awake.
     * Balance - A balanced use of both energies allows for a combination of conveying experiences, but
     * Trickster - Masters of only Fabrication are able to use their spiritual energy to create purely false experiences in others, that are extremely realistic to the affected. This is usually limited to only one sense at a time, or 2 with great effort.
+
 **Game**
   * General Description
     *  This is called the game path, because it is an integral part of a game played by many people. This pathway utilizes spiritual energy to create rules, conditions, negotiations and pacts with other people and spirits and their spiritual energy to create unique obligations, situations, and results that are otherwise difficult or impossible to create. Can be used to greatly enhance effects of different paths. The more serious users of this path can result in huge consequences and sacrifices, but greater benefits of conditions must be met by what both parties making the pact believe to be greater sacrifices or conditions.
@@ -130,6 +134,7 @@ While mastering abilities in multiple pathways is difficult, living your life ac
     * Abe - Masters of only honesty are unable to ever purposely break rules and conditions they make at the cost of death. The results of their conditions, however, are very powerful since they make restriction that must be followed for their entire life.
     * Balance - Able to set conditions, and rules which result in great enhancements, but if conditions are broken then the enhancement or results simply stop immediately.
     * Politician - Masters of only corruption are able to break the rules of conditions that they make, but this often comes at a cost every time the rule is broken. As a result, conditions can be extremely demanding, resulting in extreme results.
+
 **Moral**
   * General Description
     * Typically used for defense from other people's spiritual powers, and simultaneously for attacking their defenses or nullifying their. Allows you to close yourself off to spiritual powers.
@@ -144,6 +149,7 @@ While mastering abilities in multiple pathways is difficult, living your life ac
     * Angel - Masters of only Honesty are able to protect themselves from other's spiritual energy. They can use their spiritual energy as a barrier. Extreme masters of Honesty can even imbue others with protection for a short while even if they go off and do their own thing.
     * Balance - Can utilize a mix of attack or defense, though to a lesser extent. The defensive and offensive nature of the balance approach allows for these masters to possibly redirect spiritual energy to an unintended target.
     * Demon - Masters of corruption specialize at blocking others from their own spiritual energy. A highly invasive feeling
+
 **Death** (a.k.a spiritual)
   * General Description
     * This pathway is the most difficult to balance. The more Wisdom or Innocence you hold, the more difficult it is to hold the other one. Masters of this path are greatly in tune with the spirit world in different ways. How they master this path determines what sort of events they can bring about using spirit energy. Innocence and Wisdom are not necessarily tied to age, but most young people tend to have more innocent energy, while most old people tend to have more spiritual energy in Wisdom.
