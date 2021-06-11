@@ -1,9 +1,27 @@
+## Key to Pathway descriptions
+**Pathway Name** - The Ojibway name given for the pathway and it's English Translation
+  * **General Description**
+    * A summary of the common understanding of the pathway by practitioners of that path
+  * **Attributes**
+    * For each pathway, there are an infinite number of ways to walk down that path. In general, however, every action that you take will lead you down that path to The seven Pathways each have two spiritual Attributes that can be trained or affected by life effects in various ways. There are general benefits to mastering a pathway, but how you master Attributes affects how you can use your powers. This section lists the names of possible attributes for a pathway.
+  * **Mastery Levels** - Describes typical characteristics of people depending on their proficiency in this pathway.
+    * *Low* - To be at a low level mastery means that you have actively been raised in a way counteractive to this pathway, and/or that you are naturally opposed to the type of spirit energy this pathway requires.
+    * *Medium* - The average person will usually have a basic level of skill around this level. No training or emphasis on this pathway will often result in these characteristics.
+    * *High* - With training or natural talent, someone adept at this pathway will usually have these types of characteristics.
+  * **Possible Pathways** - A general description of what is possible when you master the spiritual power of a pathway. This is usually split up into descriptions of what happens when you master a particular attribute and what happens when you master the pathway with a balanced approach.  
+    * *1st attribute* - The typical powers of those who master this pathway utilizing only the first attribute described.
+    * *Balance* - Mastering a pathway using all of its attributes usually means that you are not as skilled in the extremes, but that you receive other benefits from the mixed use of what the pathway has to offer. Balancing your mastery of a pathway is often more difficult to do, though that does not mean it is "better". Balanced individuals are often more "put together", however and less eccentric.
+    * *2nd attribute* - The typical powers of those who master this pathway utilizing only the second attribute described.
+    * *x attribute* = The typical powers of those who master this pathway utilizing only the :"x" attribute described.
+  * **Examples of Pathways** - Possible powers that someone could use when mastering this pathway in conjunction with other pathways.
+
 # The Pathways
 **Thunder**
   * **General Description**
     * How your spiritual energy affects other peoples spiritual energy and makes them feel about themselves and you. Purely an emotional spiritual power. Most people think of stirring up anger and fear or of calming the storm of intense emotions, but you can also cause insufferable boredom, empathetic pain, unquestioning trust, sexual desire, etc.
   * **Attributes**
-    * Love
+    * Zaagidowin(Love)
+      * "To live our lives with love is to understand our capacity to realize, empathize, and nurture the needs of others" (Tribal Observer, 03-01-2021, page 4)
     * Rancor
   * How to train
     * Basic - Manipulate the emotions of strangers. Make a stranger laugh, make them angry, or make them feel some kind of emotion. Do this without spirit energy using words, tone of voice, actions, etc.  
@@ -21,10 +39,14 @@
 
 **Life**
   * **General Description**
-    * The ability to manipulate objects, materials, plants, and animals in the physical world. Cannot go against gravity, or force things to behave in ways they never would.
+    * The ability to manipulate objects, materials, plants, and animals in the physical world. You essentially manipulate living things by communicating with them in a way that is only possible with spiritual energy. Objects and materials on the other hand are manipulated by accelerating or decelerating the laws of the physical world using your spiritual energy as both a catalyst and energy source.
+        * You cannot force things to behave in ways that are completely impossible, but you can change the timing, intensity, and nature of actions. For instance, you cannot command a tree to suddenly strike something, but you can encourage trees to grow in a certain way. How receptive the tree is to your command depends on how powerful and persistent you are, and of course the temperament of the plant. Similarly, with animals, you can encourage them to do things they would normally be able to do, but you can't . You can ask plants to grow in a certain way, to release pollen at a certain time, or do anything else a plant can do. Same with earth, water, or even air. You can trigger a mudslide to occur, w
   * **Attributes**
-    * Respect
+    * Minaadendamoowing(Respect)
+      * The act of healing things, or beseeching them to act in natural ways that are advantageous to you.
+      * "To live with respect is to give mutual consideration for a shred and differing ideas as well as for the world around us"
     * Desecration
+      * The act of destroying things, or manipulating them in ways they would not otherwise act.
   * How to train
     * Basic - interact with nature and the physical world. The more varied types of spiritual energy that you interact with, the better. For instance: go for walks in the woods, climb a tree; explore caves, interact with animals.
     * Intermediate - Use your spiritual energy to bond with a dog, or some other animal. animals are a relatively closer type of spirit energy to humans. Ask them to do things.
@@ -35,16 +57,16 @@
     * *Medium* - Willing to learn about how the world works, but mostly just about what is important for their daily life.
     * *High* - Has a natural understanding of how animals, plants and the natural world work. Often able to read the body language and health of living things. Has an extensive understanding and curiosity about the physical world. They are also very interested in developing individual relationships with various animals, plants, objects, and places in the world.
   * **Possible Pathways**
-    *  Bleeding Heart - Masters of only respect are adept at manipulating the physical world, healing people, and beseeching animals for help, but they are ?????????.
+    *  Bleeding Heart - Masters of only respect are adept at manipulating the physical world, healing people, gardening, and/or beseeching animals for help, but they are ?????????.
     * Balance - Knows that creation benefits from destruction. Paradoxically, better understanding of the physical world improves their relationship with the spiritual world. Able to manipulate and destroy things to a lesser extent than the other possible pathways, but is also able to manipulate the spirit energy of others in certain ways to make them tired, energized, nauseous, etc. They also naturally have a better relationship purely spiritual beings (in their physical forms) for asking them for help.
-    * Undead King - Masters of only desecration excel at killing and ailing others. They can also use the dead, and decomposing for their will.
-    * Breaker - adept at breaking down spiritual energy.
+    * Undead King - Masters of only desecration excel at killing and ailing others. They can also use the dead and decomposing at will by using their spiritual energy. They are able to move the dead by replacing the functions of blood, muscles, organs, and sinew  with spiritual energy. Like with healers, this requires intense knowledge of the anatomy of the animal you are working with.
 
 **War**
   * **General Description**
     * So named because of its popularity with warriors, even though there are many uses for this path. Those utilizing this path can generally either enhance some physical aspect of their body or senses, or add resistance in various ways to the bodies of someone else.
   * **Attributes**
-    * Bravery
+    * Zoongide'ewin(Bravery)
+      * "To be brave and have courage is to recognize our moral and mental strength and to do what is appropriate"
     * Fear
   * How to train
     * Basic -
@@ -64,7 +86,8 @@
   * **General Description**
     * The ability to create visions, and make others experience the world in the way that you want them to. Useful for false visions, hearing, touch, smell and other senses.
   * **Attributes**
-    * Truth
+    * Debwewin(Truth)
+      * "To live in truth is to recognize the difference between right and wrong and to be faithful to ourselves as well as the world around us even when the right way is not the easiest way"
     * Fabrication
 * How to train
   * Basic - story telling
@@ -84,7 +107,8 @@
   * **General Description**
     *  This is called the game path, because it is an integral part of a game played by many people. This pathway utilizes spiritual energy to create rules, conditions, negotiations and pacts with other people and spirits and their spiritual energy to create unique obligations, situations, and results that are otherwise difficult or impossible to create. Can be used to greatly enhance effects of different paths. The more serious users of this path can result in huge consequences and sacrifices, but greater benefits of conditions must be met by what both parties making the pact believe to be greater sacrifices or conditions.
   * **Attributes**
-    * Honesty
+    * Gwekwadiziwin(Honesty)
+      * "To be honest is to recognize that we have the ability to live our lives with honor and integrity"
     * Corruption
 * How to train
   * Basic -
@@ -104,7 +128,8 @@
   * **General Description**
     * Typically used for defense from other people's spiritual powers, and simultaneously for attacking their defenses or nullifying their. Allows you to close yourself off to spiritual powers.
   * **Attributes**
-    * Humility
+    * Dibaadendiziwin(Humility)
+      * To live with humility is to recognize that we are all equal, we all make mistakes, we all like to have our success rewarded and to put others before ourselves.
     * Arrogance
   * Attributes of Various Mastery Levels
     * *Low* - Tend to concerned with their own lives. Doesn't really care about what is going on in other's life.
@@ -120,7 +145,8 @@
     * This pathway is the most difficult to balance. The more Wisdom or Innocence you hold, the more difficult it is to hold the other one. Masters of this path are greatly in tune with the spirit world in different ways. How they master this path determines what sort of events they can bring about using spirit energy. Innocence and Wisdom are not necessarily tied to age, but most young people tend to have more innocent energy, while most old people tend to have more spiritual energy in Wisdom.
     * Innocence and Wisdom are simply labels for the type of spiritual energy people use in this path. While this spiritual energy does tend to affect the choices people make, it is not actually related to how innocent or wise an individual is.
   * **Attributes**
-    * Wisdom
+    * Nboookaawin(Wisdom)
+      * "To live with wisdom is to acquire and use experiences as guides for making equitable and mature decisions"
     * Innocence
   * **Mastery Levels**
     * *Low* - Tend to forget their dreams rather easily, unless they strike them as extremely important. Tend to experience spirituality on a purely subconscious level, with only the physical world taking importance.
@@ -130,20 +156,3 @@
     * The Fool - A master of only Innocence. Individuals who have a knack for being in the right place at the right time because they are subconsciously following the environmental flow of energy immediately around them and in the world. They can feel the flow and intention of actions (anima) that spiritual energy is taking.
     * Balance - A balance of innocence and wisdom lets someone see and feel the flow and nature of spiritual energies to a lesser extent than the other categories, but by balancing the two energies, they are incredibly adept at incorporating their own spiritual energies into others. This makes it incredibly for masters of this category to understand others and to have them understand their position, though that does not necessarily mean they will agree or even become friends.
     * Set in Stone - A master of only Wisdom. Can always see even the smallest sources of spirit energy that they can interact with and consciously affect with their own spiritual energy. Can physically see the content, and nature of sources of spiritual energy when the right circumstances are met, which is incredibly useful for knowing the nature of people and spirits. Can tell if and how particular things have been affected by another's spiritual energy.
-
-## Key to Pathway descriptions
-**Pathway Name**
-  * **General Description**
-    * A summary of the common understanding of the pathway by practitioners of that path
-  * **Attributes**
-    * For each pathway, there are an infinite number of ways to walk down that path. In general, however, every action that you take will lead you down that path to The seven Pathways each have two spiritual Attributes that can be trained or affected by life effects in various ways. There are general benefits to mastering a pathway, but how you master Attributes affects how you can use your powers. This section lists the names of possible attributes for a pathway.
-  * **Mastery Levels** - Describes typical characteristics of people depending on their proficiency in this pathway.
-    * *Low* - To be at a low level mastery means that you have actively been raised in a way counteractive to this pathway, and/or that you are naturally opposed to the type of spirit energy this pathway requires.
-    * *Medium* - The average person will usually have a basic level of skill around this level. No training or emphasis on this pathway will often result in these characteristics.
-    * *High* - With training or natural talent, someone adept at this pathway will usually have these types of characteristics.
-  * **Possible Pathways** - A general description of what is possible when you master the spiritual power of a pathway. This is usually split up into descriptions of what happens when you master a particular attribute and what happens when you master the pathway with a balanced approach.  
-    * *1st attribute* - The typical powers of those who master this pathway utilizing only the first attribute described.
-    * *Balance* - Mastering a pathway using all of its attributes usually means that you are not as skilled in the extremes, but that you receive other benefits from the mixed use of what the pathway has to offer. Balancing your mastery of a pathway is often more difficult to do, though that does not mean it is "better". Balanced individuals are often more "put together", however and less eccentric.
-    * *2nd attribute* - The typical powers of those who master this pathway utilizing only the second attribute described.
-    * *x attribute* = The typical powers of those who master this pathway utilizing only the :"x" attribute described.
-  * **Examples of Pathways** - Possible powers that someone could use when mastering this pathway in conjunction with other pathways.

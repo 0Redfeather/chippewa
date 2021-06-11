@@ -33,6 +33,8 @@ Your ability to master pathways is heavily related to your clan. People from par
 
 While mastering abilities in multiple pathways is difficult, living your life according to all of the pathways benefits your mastery of any pathways abilities. For instance, someone who has mastered and practiced only the Thunder path, will be weaker than someone who lives their life according to all pathways.
 
+Despite the labels of spiritual powers, categories, virtues, etc., these are not ironclad rules for the personality characteristics of individuals. Someone who has mastered the bravery attribute for instance, will have a different way of showing bravery to others who have mastered the same attribute. These individuals will also act "cowardly" in particular situations. 
+
 
 # Story Writing rules
 1. Above all, stories must be believable. If you don't plan for winter, you experience hardship. If you kill someone, there are consequences. There is no writing things specifically for a happy ending. Real endings are the goal.
