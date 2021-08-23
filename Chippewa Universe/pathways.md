@@ -23,7 +23,7 @@
     * Zaagidowin(Love)
       * "To live our lives with love is to understand our capacity to realize, empathize, and nurture the needs of others" (Tribal Observer, 03-01-2021, page 4)
     * Rancor
-  * How to train
+  * **How to train**
     * Basic - Manipulate the emotions of strangers. Make a stranger laugh, make them angry, or make them feel some kind of emotion. Do this without spirit energy using words, tone of voice, actions, etc.  
     * Intermediate - Use spiritual energy while directly touching someone in order to make them feel the emotions you tried making them feel with the basic method.
     * Advanced - Imbue your spiritual energy into objects while attempting to make others who hold those objects feel those emotions
@@ -57,9 +57,10 @@
     * *Medium* - Willing to learn about how the world works, but mostly just about what is important for their daily life.
     * *High* - Has a natural understanding of how animals, plants and the natural world work. Often able to read the body language and health of living things. Has an extensive understanding and curiosity about the physical world. They are also very interested in developing individual relationships with various animals, plants, objects, and places in the world.
   * **Possible Pathways**
-    *  Bleeding Heart - Masters of only respect are adept at manipulating the physical world, healing people, gardening, and/or beseeching animals for help, but they are ?????????.
-    * Balance - Knows that creation benefits from destruction. Paradoxically, better understanding of the physical world improves their relationship with the spiritual world. Able to manipulate and destroy things to a lesser extent than the other possible pathways, but is also able to manipulate the spirit energy of others in certain ways to make them tired, energized, nauseous, etc. They also naturally have a better relationship purely spiritual beings (in their physical forms) for asking them for help.
-    * Undead King - Masters of only desecration excel at killing and ailing others. They can also use the dead and decomposing at will by using their spiritual energy. They are able to move the dead by replacing the functions of blood, muscles, organs, and sinew  with spiritual energy. Like with healers, this requires intense knowledge of the anatomy of the animal you are working with.
+    *  Bleeding Heart - Masters of only respect typically excell at skills meant to preserve, or "fix" things at the cost of their own energy. For instance, they can be adept at healing people, growing plants, or becoming catalysts for natural reactions. Anyone who has mastered this pathway can beseech animals for help, but masters of only respect tend to only be able to enlist the help of prey animals, plants, and certain materials.
+    * Balance - Believes that creation benefits from destruction and vice-versa. Paradoxically, use of both attributes in the physical world improves their relationship with the spiritual world. A balanced approach to this pathway means that these individuals physically manipulate and destroy things to a lesser extent than the bleeding heart or the Joker, but they are also able to manipulate the spirit energy of others in certain ways to make them tired, energized, nauseous, etc. They also naturally have a better relationship with purely spiritual beings (in their physical forms) for asking them for help. When asking for an animal's help, the type of animal doesn't matter and it more depends on compatible personalities.
+    * Undead King - Some Masters of only desecration excel at killing and ailing others by absorbing the spiritual energy of others. Every action taken to degenerate others is the result of spiritual energy being taken from them. They can make small wounds and minor illnesses deadly. They can also use the dead and decomposing at will by imbuing it with either their own or stolen spiritual energy They are able to move the dead by replacing the functions of blood, muscles, organs, and sinew  with spiritual energy. Like with healers, this requires intense knowledge of the anatomy of the animal you are working with.
+    * The Joker - Some Masters of only descration excel at destruction. They are skilled at spending energy.They can make fire burn faster, make arrows and bullets explode more forcefully on impact,
 
 **War**
   * **General Description**
